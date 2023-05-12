@@ -1,0 +1,20 @@
+https://www.codingninjas.com/codestudio/problems/sort-0-1-2_631055?source=youtube&campaign=LoveBabbar_Codestudiovideo1&utm_source=youtube&utm_medium=affiliate&utm_campaign=LoveBabbar_Codestudiovideo1Problem Statement
+Detailed explanation ( Input/output format, Notes, Images )
+Sample Input 1 :
+2
+6
+0 1 2 2 1 0
+7
+0 1 2 1 2 1 2
+Sample Output 1 :
+0 0 1 1 2 2
+0 1 1 1 2 2 2
+Sample Input 2 :
+2
+7
+2 2 2 1 1 1 0
+6
+2 1 2 0 1 0
+Sample Output 2 :
+0 1 1 1 2 2 2
+0 0 1 1 2 2
